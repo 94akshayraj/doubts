@@ -20,3 +20,14 @@ else:
 	print("False")
 
 print(type(sum(num)))
+
+
+
+##############################################
+
+num = input() 
+for i in range(len(num)):
+	for j in range(i+1,len(j)):
+		for k in range(j+1,len(k)):
+			if num[i:j] + num[j:k] = num[k:range(len(num))]:
+				print True
